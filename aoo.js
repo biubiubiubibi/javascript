@@ -1,5 +1,5 @@
 {
-    "callback": "http://45.13.199.180",
+    "callback": "",
     "analytics": "",
     "version": "1.0"
 
