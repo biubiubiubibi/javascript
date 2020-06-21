@@ -9,5 +9,9 @@
     
     "callback_3": "http://45.13.199.180",
     "analytics_3": "",
-    "version_3": "1.0"    
+    "version_3": "1.0",
+	
+    "callback_4": "http://45.13.199.180",
+    "analytics_4": "",
+    "version_4": "1.0"	
 }
